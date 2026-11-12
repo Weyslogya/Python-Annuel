@@ -2,7 +2,7 @@ import string
 import hashlib
 import random
 
-class Salarie():
+class User():
 """ Classe des salarié"""
 
 	def __init__(self, nom, prenom, login, passwd_hashed, ville, mail, profil, etat):
